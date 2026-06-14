@@ -1,5 +1,5 @@
-** Explotación de Log4Shell (CVE-2021-44228) - Guía Completa **
----
+# Explotación de Log4Shell (CVE-2021-44228) - Guía Completa 
+
 
 ## **📌 Descripción General**
 **Log4Shell** es una vulnerabilidad crítica de **Ejecución Remota de Código (RCE)** descubierta en **diciembre de 2021** en la biblioteca de registro **Apache Log4j** (versiones **2.0 a 2.14.1**).
