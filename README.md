@@ -1,4 +1,4 @@
-# Explotación de Log4Shell (CVE-2021-44228) - Guía Completa 
+# Explotación de Log4Shell (CVE-2021-44228) 
 
 
 ## **📌 Descripción General**
